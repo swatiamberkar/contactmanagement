@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "8fec",
+      "firstname": "swati",
+      "lastname": "kasare",
+      "phonenumber": 1244,
+      "city": "pune"
+    }
+  ],
+  "signup": [
+    {
+      "id": "74ae",
+      "name": "swa",
+      "email": "ss",
+      "password": "aa"
+    },
+    {
+      "id": "4191",
+      "name": "swa",
+      "email": "ss",
+      "password": "aa"
+    },
+    {
+      "id": "08a5",
+      "name": "aa",
+      "email": "aa",
+      "password": "aa"
+    }
+  ]
+}
